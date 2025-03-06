@@ -1,0 +1,9 @@
+Build a Python Cyber Security - Phishing Link Scanner
+
+Here’s the flow:
+
+Install necessary libraries.
+Define functions to check for suspicious patterns, domain information, known phishing links, and page content.
+Combine these functions into a main scanning function that checks the URL for phishing signs.
+Test the scanner by inputting URLs and analyzing them.
+Now, when you run this notebook, you’ll be able to enter URLs and check if they seem safe or possibly phishing attempts!
